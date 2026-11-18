@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Videos y fotografias
+*.mp4
+*.avi
+Personas_Detectadas/
+
+# Modelo de inteligencia artificial
+*.pt
